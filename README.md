@@ -113,13 +113,7 @@ I also like to share what I learn and sometimes [blogging about it](https://dev.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stctheproducer&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
-
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+</td></tr></table> 
 
 <br/>  
 
