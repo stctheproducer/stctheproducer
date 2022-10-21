@@ -1,4 +1,31 @@
-## Hey 👋🏾, Chanda here!  
+
+## In a nutshell  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently bootstrapping [Kukura](https://kukura.io)  
+  
+
+- 🌱 I’m currently learning Golang and the Hashicorp stack  
+  
+
+- ❓ Ask me about dreadlocks and Remix  
+  
+
+- ⚡ Fun fact: I use dark mode everywhere and I model, sometimes  
+  
+
+- 📫 How to reach me: [send me an email](mailto:dev@chandamulenga.com?Subject=Your%20GitHub%20Profile%20Interests%20Me)  
+
+
+</td><td valign="top" width="50%">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=stc_110&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" align="right" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+## Hey, Chanda here! 👋🏾
   
 
 <div align="center">
@@ -27,35 +54,8 @@ I’m a full-stack developer, leaning towards front-end development, who has a f
 
 I love building loosely coupled API-first backends that are reusable across different platforms. My interest in design also allows me to create beautiful and functional front-end web apps. As I'm always looking at making deployments easier and automated, I take some time to learn and implement innovative DevOps practices in my personal projects.
 
-I also like to share what I learn and sometimes [blogging about it](https://dev.to/stctheproducer) helps me do that. 
+I also like to share what I learn and sometimes [blogging about it](https://dev.to/stctheproducer) helps me do that.  
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently bootstrapping [Kukura](https://kukura.io)  
-  
-
-- 🌱 I’m currently learning Golang and the Hashicorp stack  
-  
-
-- ❓ Ask me about dreadlocks and Remix  
-  
-
-- ⚡ Fun fact: I use dark mode everywhere and I model, sometimes  
-  
-
-- 📫 How to reach me: [send me an email](mailto:dev@chandamulenga.com?Subject=Your%20GitHub%20Profile%20Interests%20Me)  
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=stc_110&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" align="right" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
@@ -117,7 +117,9 @@ I also like to share what I learn and sometimes [blogging about it](https://dev.
 
 <br/>  
 
-  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
