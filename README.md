@@ -27,7 +27,7 @@ I’m a full-stack developer, leaning towards front-end development, who has a f
 
 I love building loosely coupled API-first backends that are reusable across different platforms. My interest in design also allows me to create beautiful and functional front-end web apps. As I'm always looking at making deployments easier and automated, I take some time to learn and implement innovative DevOps practices in my personal projects.
 
-I also like to share what I learn and sometimes blogging about it helps me do that.  
+I also like to share what I learn and sometimes [blogging about it](https://dev.to/stctheproducer) helps me do that. 
   
 
 <br/>  
