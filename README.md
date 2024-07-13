@@ -19,7 +19,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=stc_110&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" align="right" style="width: 100%" />
+<img src="https://https://spotify-github-profile.kittinanx.com/api/view?uid=stc_110&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" align="right" style="width: 100%" />
 
 </td></tr></table>  
 
