@@ -2,16 +2,16 @@
 ## In a nutshell  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently bootstrapping [Kukura](https://kukura.io)  
+- 🔭 I’m currently deepening my expertise in Backend and Data Engineering (AI/ML) 
   
 
 - 🌱 I’m currently learning Golang and the Hashicorp stack  
   
 
-- ❓ Ask me about dreadlocks and Remix  
+- ❓ Ask me about living with locs, DevOps, and TypeScript  
   
 
-- ⚡ Fun fact: I use dark mode everywhere and I model, sometimes  
+- ⚡ Fun fact: I use dark mode everywhere, and I model, sometimes  
   
 
 - 📫 How to reach me: [send me an email](mailto:dev@chandamulenga.com?Subject=Your%20GitHub%20Profile%20Interests%20Me)  
