@@ -5,7 +5,7 @@
 - 🔭 I’m currently deepening my expertise in Backend and Data Engineering (AI/ML) 
   
 
-- 🌱 I’m currently learning Golang and the Hashicorp stack  
+- 🌱 I’m currently learning the intricacies and inner workings of Node.js and Python  
   
 
 - ❓ Ask me about living with locs, DevOps, and TypeScript  
