@@ -53,13 +53,11 @@
 
 
 ### Elevator pitch ✨  
-I’m a full-stack developer, leaning towards front-end development, who has a full-time career out of my skills. Full-stack allows me to build client-facing apps and websites with a fully customized backend.
+Hello, I’m a full-stack software engineer with over five years of experience at companies like [**Kuala Tech Limited**](https://kuala.io) and **Kukura Solutions**. At Kuala Tech, I led the development of a B2C/self-service insurance platform that reduced policy processing time by **89%** and generated over **ZMW 12,000,000** in revenue. I architected serverless applications and containerized environments—streamlining deployments by **50%**.
 
-I love building loosely coupled API-first backends that are reusable across different platforms. My interest in design also allows me to create beautiful and functional front-end web apps. As I'm always looking at making deployments easier and automated, I take some time to learn and implement innovative DevOps practices in my personal projects.
+My technical toolkit includes **Node.js, TypeScript, React/Vue/Svelte**, and cloud-native infrastructure on **AWS, Azure, Terraform, Docker, Docker Swarm**, complemented by strong DevOps practices and mentoring skills. I’ve built scalable, secure Insurtech and Fintech systems, triaged production issues (avg. TTR ≈ 2 hrs), and grown teams through hands-on guidance.
 
-I also like to share what I learn and sometimes [blogging about it](https://dev.to/stctheproducer) helps me do that.  
-  
-
+I've written a few articles related to the engineering space on [dev.to](https://dev.to/stctheproducer) and I'll writing a lot more on [my personal website](https://dev.chandamulenga.com).
 <br/>  
 
 
